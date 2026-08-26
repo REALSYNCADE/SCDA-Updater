@@ -18,7 +18,7 @@ currently being handed out is on the **Experimental build** tab:
 
 | | |
 |---|---|
-| **Night Waves** | Dawn Waves at night — an extra vent, dimmed outdoor light and capped fill lights. It is its own map: your stock Dawn Waves stays exactly where it is, and Night Waves sits directly after it in the map list. |
+| **Night Waves** | Dawn Waves at night — an extra vent, dimmed outdoor light and capped fill lights. It is its own map: your stock Dawn Waves stays exactly where it is, and Night Waves is added at the end of the map list. |
 
 So: download the updater, pick **Experimental Build** under VERSION, and press
 **PLAY**. It checks for updates, installs what is missing and starts the game.
