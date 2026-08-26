@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.08.27-x3",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x3/scda-ce-exp-2026.08.27-x3.scdaupd",
-  "sha256": "53b3831d982fa1d7f29298edb056eaf05c3062cc84aa0e06fba49a69bcca830f",
-  "size": 1314447,
-  "notes": "Boss House Night joins Night Waves",
-  "released": "2026-08-26T17:34:10Z",
+  "version": "2026.08.27-x4",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x4/scda-ce-exp-2026.08.27-x4.scdaupd",
+  "sha256": "059870b02bb0334101d0a902832cb506dc91530c98df182171cc776f06360818",
+  "size": 1306925,
+  "notes": "Boss House Night: contrast lighting, overgrowth replanted",
+  "released": "2026-08-26T19:00:55Z",
   "addons": [
     {
       "code": "NGHTW",
