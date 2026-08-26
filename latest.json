@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.08.26-x4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.26-x4/scda-ce-exp-2026.08.26-x4.scdaupd",
-  "sha256": "0d3cee9c3450f18b94aa3fed2b14878f4d21f7086d9952a67a6a642fa2a966d3",
-  "size": 552022,
-  "notes": "Night Waves - extra vent, dimmed outdoor light, capped fill lights",
-  "released": "2026-08-26T13:40:27Z",
+  "version": "2026.08.27-x2",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x2/scda-ce-exp-2026.08.27-x2.scdaupd",
+  "sha256": "3339163d6438684039feb5f79c903cfac82bc439d885f9928ca84dbc7732abf2",
+  "size": 551954,
+  "notes": "",
+  "released": "2026-08-26T13:45:44Z",
   "addons": [
     {
       "code": "NGHTW",
