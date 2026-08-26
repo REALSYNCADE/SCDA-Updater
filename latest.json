@@ -1,15 +1,20 @@
 {
   "track": "experimental",
-  "version": "2026.08.27-x2",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x2/scda-ce-exp-2026.08.27-x2.scdaupd",
-  "sha256": "3339163d6438684039feb5f79c903cfac82bc439d885f9928ca84dbc7732abf2",
-  "size": 551954,
-  "notes": "",
-  "released": "2026-08-26T13:45:44Z",
+  "version": "2026.08.27-x3",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x3/scda-ce-exp-2026.08.27-x3.scdaupd",
+  "sha256": "53b3831d982fa1d7f29298edb056eaf05c3062cc84aa0e06fba49a69bcca830f",
+  "size": 1314447,
+  "notes": "Boss House Night joins Night Waves",
+  "released": "2026-08-26T17:34:10Z",
   "addons": [
     {
       "code": "NGHTW",
       "title": "Night Waves",
+      "kind": "map"
+    },
+    {
+      "code": "BOSGN",
+      "title": "Boss House Night",
       "kind": "map"
     }
   ],
