@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.08.27-x7",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x7/scda-ce-exp-2026.08.27-x7.scdaupd",
-  "sha256": "45b5c2a00a9c75744045459d941effe6f8856e988243374bfb4f26cd2a8e8e8b",
-  "size": 2350142,
-  "notes": "New map: Greys House 1v1 / 2v2 - Boss House cut down for small matches",
-  "released": "2026-08-27T10:36:22Z",
+  "version": "2026.08.27-x8",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x8/scda-ce-exp-2026.08.27-x8.scdaupd",
+  "sha256": "ef1864785480ac42ae619bff46c174b1269ecf0d23634fd317ff9ba74cce9089",
+  "size": 2350180,
+  "notes": "",
+  "released": "2026-08-27T14:03:27Z",
   "addons": [
     {
       "code": "NGHTW",
