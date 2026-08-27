@@ -1,11 +1,11 @@
 {
   "track": "experimental",
-  "version": "2026.08.27-x4",
-  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x4/scda-ce-exp-2026.08.27-x4.scdaupd",
-  "sha256": "059870b02bb0334101d0a902832cb506dc91530c98df182171cc776f06360818",
-  "size": 1306925,
-  "notes": "Boss House Night: contrast lighting, overgrowth replanted",
-  "released": "2026-08-26T19:00:55Z",
+  "version": "2026.08.27-x5",
+  "bundle_url": "https://github.com/REALSYNCADE/SCDA-Updater/releases/download/exp-v2026.08.27-x5/scda-ce-exp-2026.08.27-x5.scdaupd",
+  "sha256": "f5c6083c8e1a713248766d372ab39daf9fcda0b688ccbcd29aa82d3e73954b17",
+  "size": 1597106,
+  "notes": "Venom Spy skin: the male spy repainted, cosmetic and client-side",
+  "released": "2026-08-27T09:43:32Z",
   "addons": [
     {
       "code": "NGHTW",
@@ -16,6 +16,11 @@
       "code": "BOSGN",
       "title": "Boss House Night",
       "kind": "map"
+    },
+    {
+      "code": "VENOM",
+      "title": "Venom Spy skin",
+      "kind": "files"
     }
   ],
   "min_patcher": 2
